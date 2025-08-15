@@ -9,7 +9,7 @@ Git is a distributed version control system; it tracks changes; supports branchi
 
 ---
 
-##Things to remember
+## Things to remember
 Commit habits
 Commit small, related changes; test before committing.
 Write clear messages that explain why; not what.
