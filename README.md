@@ -18,7 +18,7 @@ Do not commit generated files or secrets.
 ---
 
 
-#Interactive visualiser; helped solidify the commit graph and merges:
+# I played this game to really solidify my learning which helped a lot and I completed 11 levels
+
 https://learngitbranching.js.org/
 
-I completed 11 levels.
