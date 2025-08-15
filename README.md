@@ -17,8 +17,6 @@ Do not commit generated files or secrets.
 
 ---
 
-
 # I played this game to really solidify my learning which helped a lot and I completed 11 levels
-
 https://learngitbranching.js.org/
 
